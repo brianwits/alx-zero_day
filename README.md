@@ -1,2 +1,1 @@
-My first Readme
-Readme
+Learning to code is fun!
